@@ -1,24 +1,14 @@
 {
-  "name": "nft_marketplace",
+  "name": "canvas-of-connections",
   "version": "1.0.0",
-  "main": "index.js",
-  "description": "",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "next": "^15.3.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  },
-  "devDependencies": {
-    "@types/node": "22.14.1",
-    "@types/react": "19.1.1",
-    "typescript": "5.8.3"
+    "next": "^13.5.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
