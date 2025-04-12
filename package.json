@@ -2,15 +2,14 @@
   "name": "nft_marketplace",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "" ,
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
+  "license": "ISC"
 }
 
