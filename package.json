@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "" ,
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
 }
+
